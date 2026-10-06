@@ -1,6 +1,6 @@
 # 🚀 Ecosistema de Nuevos Cursos en Desarrollo — Fundación Kinal 2026
 
-Repositorio oficial y portal interactivo para los nuevos programas formativos diseñados para la formación continua, especialización industrial y reconversión técnica laboral bajo los estándares del **Marco Alemán de Cualificaciones (DQR Nivel 4 - 5)** y el **Sistema Dual de Formación en Alternancia**.
+Repositorio oficial y portal interactivo para los nuevos programas formativos diseñados para la formación continua, especialización industrial y reconversión técnica laboral bajo los estándares del **Marco Alemán de Cualificaciones (DQR Nivel 3 - 5)** y el **Sistema Dual de Formación en Alternancia**.
 
 🔗 **Sitio Web Público (GitHub Pages):** [https://rovalle-kinal.github.io/new-courses/](https://rovalle-kinal.github.io/new-courses/)
 
@@ -55,6 +55,18 @@ Repositorio oficial y portal interactivo para los nuevos programas formativos di
   * [Propuesta Formativa Institucional](Cableado_Estructurado/Propuesta_Curso_Cableado_Estructurado_Kinal.docx)
   * [Temario Modular Completo](Cableado_Estructurado/Temario_Curso_Cableado_Estructurado_Kinal.docx)
   * [Dosificación y Secuencia Didáctica Sesión a Sesión](Cableado_Estructurado/Dosificacion_y_Secuencia_Didactica_Cableado_Estructurado_Kinal.docx)
+
+### 5. 🧠 Inteligencia Artificial Aplicada, Ingeniería de Prompts y Productividad Ética
+* **Modalidad:** 100% Virtual Sincrónica Interactiva (Microsoft Teams + Kinal.academy / Moodle)
+* **Duración:** 16 horas pedagógicas (1 mes: 8 sesiones nocturnas de 2 horas • Martes y Jueves de 19:00 a 21:00 hrs)
+* **Nivel:** Equivalencia DQR Nivel 3 - 4
+* **Ejes:** Ecosistema LLM multimodelo (ChatGPT, Google Gemini, Copilot, Claude), método RC-TRF de prompts (Rol, Contexto, Tarea, Restricción, Formato), Few-Shot Prompting, automatización de correspondencia laboral y minutas, análisis de PDFs extensos, extracción de tablas para Excel, caza de alucinaciones y privacidad de datos.
+* **Proyecto Terminal:** Asistente Personal de Productividad y Dossier de Prompts Evaluado.
+* **Explorar Web:** [ia.html](https://rovalle-kinal.github.io/new-courses/ia.html)
+* **Documentos Word Oficiales:**
+  * [Propuesta Formativa Institucional](Inteligencia_Artificial/Propuesta_Curso_IA_Kinal.docx)
+  * [Temario Modular Completo](Inteligencia_Artificial/Temario_Curso_IA_Kinal.docx)
+  * [Dosificación y Secuencia Didáctica Sesión a Sesión](Inteligencia_Artificial/Dosificacion_y_Secuencia_Didactica_IA_Kinal.docx)
 
 ---
 
